@@ -15,7 +15,7 @@ A modern, responsive weather forecasting web application that provides real-time
 
 ## 🚀 Live Demo
 
-[View Live Demo]([https://adarshxkumar.github.io/Weather-Dashboard/])
+[View Live Demo](https://adarshxkumar.github.io/Weather-Dashboard/)
 
 ## 📸 Screenshots
 
