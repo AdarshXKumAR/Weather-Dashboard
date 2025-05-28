@@ -15,7 +15,7 @@ A modern, responsive weather forecasting web application that provides real-time
 
 ## 🚀 Live Demo
 
-[View Live Demo]([your-demo-link-here](https://adarshxkumar.github.io/Weather-Dashboard/))
+[View Live Demo]([https://adarshxkumar.github.io/Weather-Dashboard/])
 
 ## 📸 Screenshots
 
@@ -141,8 +141,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Adarsh Kumar**
-- GitHub: [@yourgithubusername](https://github.com/AdarshXKumAR)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/abhishekadarsh0670)
+- GitHub: [@AdarshXKumAR](https://github.com/AdarshXKumAR)
+- LinkedIn: [Abhishek Adarsh](https://linkedin.com/in/abhishekadarsh0670)
 
 ## 🙏 Acknowledgments
 
